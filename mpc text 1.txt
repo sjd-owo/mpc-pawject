@@ -1,0 +1,12 @@
+brainstorm mpc project
+
+4x4 led pad matrix
+daisy audio board
+hall pot?
+sd card reader
+i2c data connections
+
+potential implementations:
+rotary encoder?
+oled display?
+battery?
